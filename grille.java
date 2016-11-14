@@ -25,6 +25,7 @@ public interface Grille {
 	'7', '8', '9', '0', 'a', 'b', 'c', 'd', 'e', 'f' };
 	/**
 	* @return largeur/hauteur de la grille
+	*la grille de sudoku
 	*/
 	public int getDimension();
 	/**
